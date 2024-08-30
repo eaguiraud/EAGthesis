@@ -1,0 +1,28 @@
+[0.279s] Invoking command in '/home/eaguiraud/ros2_ws/src/vision_rpi_bot': PYTHONPATH=/home/eaguiraud/ros2_ws/build/vision_rpi_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/eaguiraud/ros2_ws/install/vision_rpi_bot/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/vision_rpi_bot build --build-base /home/eaguiraud/ros2_ws/build/vision_rpi_bot/build install --record /home/eaguiraud/ros2_ws/build/vision_rpi_bot/install.log --install-scripts $base/lib/vision_rpi_bot --single-version-externally-managed install_data
+[0.372s] running egg_info
+[0.372s] writing ../../build/vision_rpi_bot/vision_rpi_bot.egg-info/PKG-INFO
+[0.372s] writing dependency_links to ../../build/vision_rpi_bot/vision_rpi_bot.egg-info/dependency_links.txt
+[0.372s] writing entry points to ../../build/vision_rpi_bot/vision_rpi_bot.egg-info/entry_points.txt
+[0.372s] writing requirements to ../../build/vision_rpi_bot/vision_rpi_bot.egg-info/requires.txt
+[0.372s] writing top-level names to ../../build/vision_rpi_bot/vision_rpi_bot.egg-info/top_level.txt
+[0.388s] reading manifest file '../../build/vision_rpi_bot/vision_rpi_bot.egg-info/SOURCES.txt'
+[0.389s] writing manifest file '../../build/vision_rpi_bot/vision_rpi_bot.egg-info/SOURCES.txt'
+[0.389s] running build
+[0.389s] running build_py
+[0.389s] copying vision_rpi_bot/subscriber.py -> /home/eaguiraud/ros2_ws/build/vision_rpi_bot/build/lib/vision_rpi_bot
+[0.389s] copying vision_rpi_bot/publisher.py -> /home/eaguiraud/ros2_ws/build/vision_rpi_bot/build/lib/vision_rpi_bot
+[0.389s] running install
+[0.389s] running install_lib
+[0.390s] copying /home/eaguiraud/ros2_ws/build/vision_rpi_bot/build/lib/vision_rpi_bot/subscriber.py -> /home/eaguiraud/ros2_ws/install/vision_rpi_bot/lib/python3.8/site-packages/vision_rpi_bot
+[0.390s] copying /home/eaguiraud/ros2_ws/build/vision_rpi_bot/build/lib/vision_rpi_bot/publisher.py -> /home/eaguiraud/ros2_ws/install/vision_rpi_bot/lib/python3.8/site-packages/vision_rpi_bot
+[0.390s] byte-compiling /home/eaguiraud/ros2_ws/install/vision_rpi_bot/lib/python3.8/site-packages/vision_rpi_bot/subscriber.py to subscriber.cpython-38.pyc
+[0.391s] byte-compiling /home/eaguiraud/ros2_ws/install/vision_rpi_bot/lib/python3.8/site-packages/vision_rpi_bot/publisher.py to publisher.cpython-38.pyc
+[0.391s] running install_data
+[0.391s] running install_egg_info
+[0.392s] removing '/home/eaguiraud/ros2_ws/install/vision_rpi_bot/lib/python3.8/site-packages/vision_rpi_bot-0.0.0-py3.8.egg-info' (and everything under it)
+[0.392s] Copying ../../build/vision_rpi_bot/vision_rpi_bot.egg-info to /home/eaguiraud/ros2_ws/install/vision_rpi_bot/lib/python3.8/site-packages/vision_rpi_bot-0.0.0-py3.8.egg-info
+[0.392s] running install_scripts
+[0.401s] Installing publisher_node script to /home/eaguiraud/ros2_ws/install/vision_rpi_bot/lib/vision_rpi_bot
+[0.401s] Installing subscriber_node script to /home/eaguiraud/ros2_ws/install/vision_rpi_bot/lib/vision_rpi_bot
+[0.401s] writing list of installed files to '/home/eaguiraud/ros2_ws/build/vision_rpi_bot/install.log'
+[0.411s] Invoked command in '/home/eaguiraud/ros2_ws/src/vision_rpi_bot' returned '0': PYTHONPATH=/home/eaguiraud/ros2_ws/build/vision_rpi_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/eaguiraud/ros2_ws/install/vision_rpi_bot/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/vision_rpi_bot build --build-base /home/eaguiraud/ros2_ws/build/vision_rpi_bot/build install --record /home/eaguiraud/ros2_ws/build/vision_rpi_bot/install.log --install-scripts $base/lib/vision_rpi_bot --single-version-externally-managed install_data
